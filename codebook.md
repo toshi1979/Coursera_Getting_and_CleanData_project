@@ -4,10 +4,10 @@ the original data was modified by
 - Extracting only the measurements on the mean and standard deviation for each measurement.
 - Replacing class label in the data set with descriptive activity name.
 - Converting columns names of data set to 'descriptive'.
-- Aggregating average of each variable for each activity and each subject.
+- Aggregating average of each measurement for each activity and each subject.
 
-# Descriptions of tidy data set
-## Identififiers
+# Descriptions of variables on tidy data set
+## Identifiers
 The first two columns below are Identifiers.
 - subject: An identifier of the subject who carried out the experiment.
 - activity: the Name of the Activity performed by the subject.
